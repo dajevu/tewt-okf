@@ -5,7 +5,9 @@ title: "Company Overview"
 
 # Company Overview
 
-Atteniv is a workforce-intelligence company focused on the emerging market for **hybrid-workforce presence tracking** and **tax-nexus intelligence**. As remote and hybrid work become permanent features of the enterprise landscape, organisations face a new class of compliance, payroll, and governance problems created by employees working across many jurisdictions. Atteniv helps companies understand where work is actually happening—and what that means for tax exposure, policy adherence, and operational planning.
+Atteniv is a workforce-intelligence company focused on the emerging market for **hybrid-workforce presence tracking** and **tax-nexus intelligence**. As remote and hybrid work become permanent features of the enterprise landscape, organisations face a new class of compliance, payroll, and governance problems created by employees working across many jurisdictions. 
+
+Atteniv helps companies understand where work is actually happening—and what that means for tax exposure, policy adherence, and operational planning.
 
 ## Mission
 
